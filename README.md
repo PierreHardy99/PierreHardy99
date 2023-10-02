@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"  />
 
 ###
 
@@ -51,8 +51,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PierreHardy99/PierreHardy99/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://profile-counter.glitch.me/PierreHardy99/count.svg?"  />
+</div>
 
 ###
